@@ -1,0 +1,10 @@
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.exe.config
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.exe
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.pdb
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.xml
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.Form1.resources
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.Resources.resources
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\dosyaindir_bozkurtyazilim.vbproj.GenerateResource.Cache
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.exe
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.xml
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.pdb

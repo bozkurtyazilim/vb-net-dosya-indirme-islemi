@@ -1,0 +1,21 @@
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.exe.config
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.exe
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.pdb
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.xml
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.Form1.resources
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.Resources.resources
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.vbproj.GenerateResource.Cache
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.exe
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.xml
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.pdb
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.exe.config
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.exe
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.xml
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.pdb
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.exe
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.pdb
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\bin\Debug\vbnet_ders23.xml
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.vbprojResolveAssemblyReference.cache
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.Form1.resources
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.Resources.resources
+C:\Users\halitbozkurt\Downloads\vbnet_ders23\vbnet_ders23\vbnet_ders23\obj\Debug\vbnet_ders23.vbproj.GenerateResource.Cache
